@@ -1,15 +1,12 @@
-# Ho2bes
+#  👋 Hi ! I'm Ho2bes !
 
-Welcome to my GitHub profile! I’m a software developer with expertise in C, JavaScript, Python, and more. Feel free to explore my repositories and projects to see my work in action.
+Welcome to my GitHub profile! I'm a full-stack developer with skills in C, JavaScript, Python, and more. Feel free to explore my repositories and projects to see my work in action.
 
 ## 📊 GitHub Statistics
 
 ![Ho2bes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ho2bes&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ho2bes&layout=compact&theme=dark)
 
-## 💻 Visitors
-
-![Visitor Count](https://profile-counter.glitch.me/{Ho2bes}/count.svg)
 
 ## 💻 Tech Stack
 
@@ -42,4 +39,9 @@ Welcome to my GitHub profile! I’m a software developer with expertise in C, Ja
 - **Prisma**: Next-generation ORM for PostgreSQL and MongoDB.
 - **PostgreSQL**: Robust relational database management.
 
-Thank you for visiting my GitHub profile!
+## 🙂 Thank you for visiting my GitHub profile!
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Ho2bes&icon=0&color=0)](https://visitcount.itsvg.in)
+
