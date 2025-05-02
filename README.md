@@ -62,7 +62,7 @@ I'm a passionate **full-stack developer** who enjoys building robust and elegant
 ## 🚀 Featured Projects
 
 - 🧾 [**FidZen**](https://github.com/Ho2bes/FidZen) — React Native app for managing loyalty cards, with Node.js and Prisma backend.
-- 🛍️ [**DUCK23 Store**]((https://github.com/Ho2bes/DUCK23_Store) — E-commerce platform built with Django, Angular, and PostgreSQL.
+- 🛍️ [**DUCK23 Store**](https://github.com/Ho2bes/DUCK23_Store) — E-commerce platform built with Django, Angular, and PostgreSQL.
 
 ---
 
