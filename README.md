@@ -69,9 +69,3 @@ I'm a passionate **full-stack developer** who enjoys building robust and elegant
 ## 🤝 Let's Connect!
 
 Feel free to reach out — I’m always happy to collaborate, contribute, or simply talk tech!  
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ho2bes&icon=0&color=0" />
-</p>
